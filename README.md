@@ -4,7 +4,7 @@
 GPUs are fickle beasts, especially under linux.  Trying to optimize their perfmance often leads to a hung server, it will respond to pings, but will never ever be able restart itself.  It's a serious hardware fault and the server can't solve it by itself.  
 
 ## Solution
-Reset your hung servers with this ugly thing!!
+Reset your hung servers with this ~~ugly~~ beautiful thing!!
 
 Parts:
 
